@@ -9,7 +9,7 @@ I am a 18 year old flutter developer from Kerala . Recently completed second yea
 #### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-ED8B00?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-ED8B00?style=for-the-badge&logo=flutter&logoColor=blue)&nbsp;
 
 #### Tools and Technologies
 
