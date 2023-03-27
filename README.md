@@ -9,11 +9,11 @@ I am a 18 year old flutter developer from Kerala . Recently completed second yea
 #### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=red&color=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-ED8B00?style=for-the-badge&logo=flutter&logoColor=blue&color=black)&nbsp;
+![Flutter](https://img.shields.io/badge/dart-ED8B00?style=for-the-badge&logo=dart&logoColor=blue&color=black)&nbsp;
 
 #### Tools and Technologies
 
-![Linux](https://img.shields.io/badge/windows-FCC624?style=for-the-badge&logo=windows&logoColor=black)&nbsp;
+![Flutter](https://img.shields.io/badge/dart-ED8B00?style=for-the-badge&logo=dart&logoColor=blue&color=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Flutter-Beginner-blue)&nbsp;
 
