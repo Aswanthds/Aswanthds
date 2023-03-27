@@ -1,4 +1,4 @@
-### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
+### Hi there, I'm [Aswanth DS](https://Aswanthds.github.io) 👋
 
 I am a 18 year old flutter developer from Kerala . Recently completed second year higher secondary education .
 
@@ -9,7 +9,7 @@ I am a 18 year old flutter developer from Kerala . Recently completed second yea
 #### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-Beginner-blue)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-ED8B00?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
