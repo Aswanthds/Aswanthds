@@ -13,9 +13,9 @@ I am a 18 year old flutter developer from Kerala . Recently completed second yea
 
 #### Tools and Technologies
 
-![Flutter](https://img.shields.io/badge/dart-ED8B00?style=for-the-badge&logo=dart&logoColor=blue&color=black)&nbsp;
+![Flutter](https://img.shields.io/badge/flutter-ED8B00?style=for-the-badge&logo=flutter&logoColor=black&color=blue)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Flutter-Beginner-blue)&nbsp;
+
 
 #### IDEs
 
