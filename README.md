@@ -19,7 +19,6 @@ I am a 18 year old flutter developer from Kerala . Recently completed second yea
 
 #### IDEs
 
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
@@ -28,10 +27,9 @@ I am a 18 year old flutter developer from Kerala . Recently completed second yea
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/aswanth-ds-venjaramoodu-417745231/)
 
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/as_.want.h/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/ashh.__wan.th/)
 </p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aswanthds&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswanthds&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -45,12 +43,11 @@ I am a 18 year old flutter developer from Kerala . Recently completed second yea
 
 
 - 🔭 I’m currently unemployed
-- 🌱 I’m currently learning flutter in deep
+- 🌱 I’m currently learning flutter in and to advanced level
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with experienced ones.
 - 💬 Ask me about nothing
 - 📫 How to reach me: instagram
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Dont say truth to me
+- ⚡ Fun fact: Dont say serious matters to me
 
 
