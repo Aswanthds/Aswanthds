@@ -10,6 +10,7 @@ I am a 18 year old flutter developer from Kerala . Recently completed second yea
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=orange)&nbsp;
 ![Flutter](https://img.shields.io/badge/dart-ED8B00?style=for-the-badge&logo=dart&logoColor=blue&color=black)&nbsp;
+![HTML](https://img.shields.io/badge/html5-ED8B00?style=for-the-badge&logo=html5&logoColor=red&color=white)&nbsp;
 
 #### Tools and Technologies
 
@@ -27,13 +28,12 @@ I am a 18 year old flutter developer from Kerala . Recently completed second yea
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/aswanth-ds-venjaramoodu-417745231/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/aswanth-ds-417745231/)
 
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/ashh.__wan.th/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/ashh_the_code/)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aswanthds&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswanthds&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
 
 [<img src="https://github-profile-trophy.vercel.app/?username=Aswanthds&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
