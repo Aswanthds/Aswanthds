@@ -42,11 +42,10 @@ I am a 18 year old flutter developer from Kerala . Recently completed second yea
 
 
 
-- 🔭 I’m currently unemployed
-- 🌱 I’m currently learning flutter in and to advanced level
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently a Developer at RaphaCure (Cure and Care Pvt.ltd.) , Bengaluru, Karnataka
+- 🌱 I’m currently moving to advanced level
 - 💬 Ask me about nothing
-- 📫 How to reach me: instagram
+- 📫 How to reach me: instagram @aswanthdsvjmd
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Dont say serious matters to me
 
