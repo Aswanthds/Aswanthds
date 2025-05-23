@@ -23,7 +23,7 @@ I am a 18 year old flutter developer from Kerala . Recently completed second yea
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![XCode](https://img.shields.io/badge/xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/androidstudio-0078d7.svg?style=for-the-badge&logo=androidstudio&logoColor=white)&nbsp;
 
 
 
