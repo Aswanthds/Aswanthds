@@ -11,7 +11,7 @@ I am a 18 year old flutter developer from Kerala . Recently completed second yea
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=orange)&nbsp;
 ![Flutter](https://img.shields.io/badge/dart-ED8B00?style=for-the-badge&logo=dart&logoColor=blue&color=black)&nbsp;
 ![HTML](https://img.shields.io/badge/html5-ED8B00?style=for-the-badge&logo=html5&logoColor=red&color=white)&nbsp;
-![Go](https://img.shields.io/badge/html5-ED8B00?style=for-the-badge&logo=go&logoColor=blue&color=white)&nbsp;
+![Go](https://img.shields.io/badge/go-ED8B00?style=for-the-badge&logo=go&logoColor=blue&color=white)&nbsp;
 
 #### Tools and Technologies
 
