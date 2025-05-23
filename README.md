@@ -1,6 +1,7 @@
 ### Hi there, I'm [Aswanth DS](https://Aswanthds.github.io) 👋
 
-I am a 18 year old flutter developer from Kerala . Recently completed second year higher secondary education .
+I am a 20 year old flutter developer. 
+Ambivert
 
 
 
